@@ -1,0 +1,53 @@
+[
+  {
+    "id": "0c488abe-82f9-490e-a0d8-559dfb7af42d",
+    "firstName": "Legacy",
+    "lastName": "User",
+    "email": "legacy1771262648885@x.com",
+    "passwordHash": "$2b$12$TQA/yNFnztKRrBmi1kMmueCdlksyUswCjfZaWlxIM7ZTt9PrDdOL.",
+    "role": "user",
+    "profilePicture": "",
+    "resumeFile": "",
+    "preferences": {
+      "preferredLocation": "",
+      "remoteOnly": true,
+      "roleCategory": ""
+    },
+    "createdAt": "2026-02-16T17:24:09.169Z",
+    "updatedAt": "2026-02-16T17:24:09.169Z"
+  },
+  {
+    "id": "b52cc1d6-823c-4cf4-9aa8-f91d18672f88",
+    "firstName": "Template",
+    "lastName": "User",
+    "email": "template.user@example.com",
+    "passwordHash": "$2b$12$Fd8gE9aqVVyR40GWWGwSAulP8izUIBgnt.DsUv4fXX5wSgy1rFrgS",
+    "role": "user",
+    "profilePicture": "",
+    "resumeFile": "",
+    "preferences": {
+      "preferredLocation": "[City]",
+      "remoteOnly": false,
+      "roleCategory": "[Role Category]"
+    },
+    "createdAt": "2026-02-16T17:15:48.606Z",
+    "updatedAt": "2026-02-16T17:29:13.304Z"
+  },
+  {
+    "id": "8eaff324-41b2-4903-bff5-bcb7b32dc374",
+    "firstName": "A",
+    "lastName": "B",
+    "email": "test1771262049595@x.com",
+    "passwordHash": "$2b$12$ZVoNowYPRAmfuEO7UsV7vO9lDyapfbzGLuA3bMx8.wuv.oP3Cw6tO",
+    "role": "user",
+    "profilePicture": "",
+    "resumeFile": "",
+    "preferences": {
+      "preferredLocation": "",
+      "remoteOnly": true,
+      "roleCategory": ""
+    },
+    "createdAt": "2026-02-16T17:14:09.885Z",
+    "updatedAt": "2026-02-16T17:14:10.355Z"
+  }
+]
